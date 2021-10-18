@@ -8,8 +8,7 @@
     "AFL-3.0"
   ],
   "require": {
-    "php": "~7.3.0||~7.4.0",
-    "magento/framework": "~100.0.4"
+    "php": "~7.3.0||~7.4.0"
   },
   "autoload": {
     "files": [ "registration.php" ],
@@ -17,6 +16,7 @@
       "Awm\\CustomerImport\\": ""
     }
   },
- "minimum-stability": "dev"
+ "minimum-stability": "dev",
+ "prefer-stable" : true
 }
 
