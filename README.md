@@ -10,8 +10,8 @@ The module allow you to import user from specific file (JSON, CSV) by magento co
 
 ### Dependencies
 
-Composer 2
-Magento 2.4
+Composer 2 |
+Magento 2.4 |
 PHP 7.4
 
 ### Installing
@@ -24,11 +24,7 @@ PHP 7.4
 ### Executing program
 
 * Open your magento console ( ex: command [argument] [argument])
-** bin/magento customer:import sample-csv  sample.csv
+```
+bin/magento customer:import sample-csv  sample.csv
+```
 * You can find in the directory two files as example.
-
-```
-code blocks for commands
-```
-
-## 
