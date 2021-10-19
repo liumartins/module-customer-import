@@ -11,7 +11,7 @@ The module allow you to import user from specific file (JSON, CSV) by magento co
 ### Dependencies
 
 Composer 2 |
-Magento 2.4 |
+Magento 2.4.2 |
 PHP 7.4
 
 ### Installing
