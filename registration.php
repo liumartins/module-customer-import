@@ -6,4 +6,3 @@
 use Magento\Framework\Component\ComponentRegistrar;
 
 ComponentRegistrar::register(ComponentRegistrar::MODULE, 'Awm_CustomerImport', __DIR__);
-

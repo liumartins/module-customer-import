@@ -45,6 +45,6 @@ class Files
      */
     private function getFileType($file){
         $array = explode('-', $file);
-        return $array[1];
+        return strtoupper($array[1]);
     }
 }
